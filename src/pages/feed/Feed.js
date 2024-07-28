@@ -1,4 +1,4 @@
-import React ,{ useState, useEffect, useRef} from "react";
+import React ,{ useState, useEffect} from "react";
 import Article from "../../components/Article";
 
 import feedService from "../../services/feedService";
